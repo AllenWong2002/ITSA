@@ -14,5 +14,5 @@ int main(){
         cout << "YES" << endl;
     else
         cout << "NO" << endl;
-    count = 0;
+    return 0;
 }

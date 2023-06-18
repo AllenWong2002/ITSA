@@ -7,7 +7,7 @@ int main(){
     while (cin >> num_1 >> num_2){
         if (num_1 > num_2){
             for (int i = num_2; i >= 0; i--){
-                if (num_2 % i == 0 && num_1 % i == 0){
+                if (num_2 % i == 0 && num_1 % i == 0){  // 除同一數整除就是了
                     cout << i << endl;
                     break;
                 }
