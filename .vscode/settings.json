@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "stdio.h": "c",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "sstream": "c",
+        "algorithm": "c",
+        "stdlib.h": "c",
+        "*.tcc": "c",
+        "ctype.h": "c",
+        "ostream": "cpp",
+        "iomanip": "cpp"
+    }
+}
